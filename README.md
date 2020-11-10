@@ -92,4 +92,4 @@ Make sure you edit `manifest.json`, `package.json` and the meta tags accordingly
 
 ### Now go out there and smash it 👊
 
-**✨ Please note: ** I initially got this code using `npx degit "sveltejs/sapper-template#rollup" my-app`.
+**✨ Please note:** I initially got this code using `npx degit "sveltejs/sapper-template#rollup" my-app`.

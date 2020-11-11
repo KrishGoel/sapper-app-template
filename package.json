@@ -1,5 +1,5 @@
 {
-  "name": "Svelte and Sapper Boilerplate",
+  "name": "sapperAppBoilerplate",
   "description": "Boilerplate for a Svelte + Sapper App",
   "version": "0.0.1",
   "scripts": {
